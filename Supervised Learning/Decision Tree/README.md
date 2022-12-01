@@ -8,4 +8,4 @@ Decision trees tend to be the method of choice for predictive modeling because t
 
 Decision trees are constructed from only two elements — nodes and branches.
 
-![alt text]()
+![alt text](https://www.jcchouinard.com/wp-content/uploads/2021/11/image-1-1024x929.png)
