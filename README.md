@@ -1,5 +1,4 @@
-# INDE-577 
-Data Science and Machine Learning Project
+# Data Science and Machine Learning
 In this project, I am going to implement all algorithms covered in class and test it on the dataset I found online
 the following algorithm will be covered in the project. 
 #### Supervised Learning: 
